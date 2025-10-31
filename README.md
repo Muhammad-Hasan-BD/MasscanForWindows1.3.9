@@ -1,4 +1,4 @@
-# MasscanForWindows1.3.9
+# Compiled Masscan For Windows v1.3.9
 
 A Windows build of **masscan v1.3.9-integration** (original project: https://github.com/robertdavidgraham/masscan).
 
